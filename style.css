@@ -1,0 +1,1253 @@
+div.main{
+    background-color: white;
+    height: 5400px;
+    width: 100%;
+    
+}
+
+div.App{
+    position: relative;
+    background-color: white;
+    border: 1px solid black;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    height: 100px;
+    width: 1331px;
+}
+
+.App1{
+    position: absolute;
+    height: 50px;
+    padding: 2%;
+    margin-left: 20px;
+}
+
+nav.App2{
+    display: flex;
+    
+}
+
+ul.App3{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 350px;
+    
+    
+}
+
+li{
+    list-style: none;
+    padding: 15px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.App4{
+    position: absolute;
+    height: 50px;
+    margin-top: -70px;
+    margin-left: 1000px;
+}
+
+.App5{
+    color: gray;
+    text-decoration: none;
+}
+
+.App6{
+    font-size: 20px;
+    position: absolute;
+    height: 40px;
+    width: 70px;
+    background-color: white;
+    border: none;
+    margin-left: 1100px;
+    margin-top: -60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+
+}
+
+.App7{
+    font-size: 20px;
+    position: absolute;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(184, 57, 57);
+    border-radius: 30px;
+    margin-left: 1200px;
+    margin-top: -60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+}
+
+.bat{
+    display: flex;
+    position: relative;
+    display: inline-block;
+    height: 520px;
+    width: 1230px;
+    margin-left: 50px;
+    margin-top: 70px;
+    background-color: #d3d7db  
+    
+}
+
+.bat1{
+    display: flex;
+    margin-left: 70px;
+     font-size: 50px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.bat2{
+    display: flex;
+    margin-left: 270px;
+    margin-top: -105px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.bat3{
+    display: flex;
+    margin-top: -30px;
+    font-size: large;
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bat4{
+    height: 40px;
+    width: 500px;
+    margin-left: 70px;
+    border-color: red;
+    border-radius: 5px;
+}
+
+.bat4::placeholder{
+    color: red;
+    font-weight: bold;
+    padding:20px;
+    font-size: medium;
+    text-align: center;
+    margin-left: 300px;
+}
+
+
+.bat5{
+    position: relative;
+    height: 40px;
+    width: 500px;
+    margin-left: 70px;
+    margin-top: 30px;
+    background-color: white;
+    border-color: red;
+}
+
+.bat5::placeholder{
+    color: red;
+    font-weight: bold;
+    padding:20px;
+    font-size: medium;
+    text-align: center;
+    margin-left: 230px;
+}
+
+
+.bat6{
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 45px;
+    border: none;
+}
+
+
+
+.bat7{
+    height: 40px;
+    width: 230px;
+    margin-left: 70px;
+    border-color: red;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.bat7::placeholder{
+    color: red;
+    font-weight: bold;
+    padding:20px;
+    font-size: medium;
+    text-align: center;
+    margin-left: 70px;
+}
+
+.bat8{
+    height: 40px;
+    width: 230px;
+    margin-left: 30px;
+    border-color: red;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.bat8::placeholder{
+    color: red;
+    font-weight: bold;
+    padding:20px;
+    font-size: medium;
+    text-align: center;
+    margin-left: 60px;
+}
+
+ 
+
+.cap{
+    position: absolute;
+    height: 50px;
+    width: 250px;
+    margin-top: 120px;
+    margin-left: -450px;
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+}
+
+.image1{
+    position: absolute;
+    margin-top: -230px;
+    margin-left: 60px;
+    height: 400px;
+}
+
+
+
+
+
+.short{
+    position: relative;
+}
+
+.short1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+.short2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    word-spacing: 3px;
+    font-size: 20px;
+
+}
+
+.main-height{
+    position: relative;
+    display: flex;
+    
+}
+
+.height1{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 450px;
+    width: 29%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.height2{
+    margin-left: 30px;
+    margin-top: 50px;
+    height: 450px;
+    width: 29%;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.height3{
+    margin-left: 30px;
+    margin-top: 50px;
+    height: 450px;
+    width: 29%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.image2{
+    position: absolute;
+    height: 230px;
+    width: 29%;
+    border-radius: 10px 10px 0px 0px;  
+}
+
+.image3{
+    position: absolute;
+    height: 230px;
+    width: 29%;  
+    border-radius: 10px 10px 0px 0px;
+}
+
+.image4{
+    position: absolute;
+    height: 230px;
+    width: 29%;  
+    border-radius: 10px 10px 0px 0px;
+}
+
+.heading1{
+    position: absolute;
+    margin-top: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: 30px;
+
+}
+
+.heading2{
+    position: absolute;
+    margin-top: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.heading3{
+    position: absolute;
+    margin-top: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+
+.image5{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 150px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+
+.image6{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 580px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+
+.image7{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 990px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+
+
+
+
+
+
+.Three-main{
+    position: relative;
+    height: 700px;
+    width: 1230px;
+    background-color: rgb(245, 56, 56);
+    margin-left: 50px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.Three{
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 50px; 
+    margin-left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    
+}
+
+.Three2{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 180px;
+    margin-left: 350px;
+}
+
+.Three3{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 200px;
+    margin-left: 340px;
+}
+
+.Three4{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 220px;
+    margin-left: 550px;
+}
+
+
+.january{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 270px;
+    height: 380px;
+    width: 29%;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.january1{
+    position: absolute;
+    margin-left: 435px;
+    margin-top: 270px;
+    height: 380px;
+    width: 29%;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.january2{
+    position: absolute;
+    margin-left: 840px;
+    margin-top: 270px;
+    height: 380px;
+    width: 29%;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.png1{
+    position: absolute;
+    height: 200px;
+}
+
+
+
+.text{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 130px;
+}
+
+.text1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 250px;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.text2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 280px;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.text3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 310px;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.pen{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 130px;
+}
+
+
+.pen1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 250px;
+    font-size: 18px;
+    margin-left: 45px;
+}
+
+.pen2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 280px;
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+.pen3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 310px;
+    font-size: 18px;
+    margin-left: 160px;
+}
+
+
+.haller{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 110px;
+}
+
+
+.haller1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 250px;
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+.haller2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 280px;
+    font-size: 18px;
+    margin-left: 45px;
+}
+
+.haller3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 310px;
+    font-size: 18px;
+    margin-left: 120px;
+}
+
+
+
+
+.page{
+    position: relative;
+}
+
+.page1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.page2{
+    position: absolute;
+    height: 420px;
+    width: 280px;
+    background-color: whitesmoke;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.page3{
+    position: absolute;
+    height: 420px;
+    width: 280px;
+    background-color: whitesmoke;
+    margin-left: 360px;
+    border-radius: 10px;
+}
+
+.page4{
+    position: absolute;
+    height: 420px;
+    width: 295px;
+    background-color: whitesmoke;
+    margin-left: 670px;
+    border-radius: 10px;
+}
+
+.page5{
+    position: absolute;
+    height: 420px;
+    width: 280px;
+    background-color: whitesmoke;
+    margin-left: 1000px;
+    border-radius: 10px;
+}
+
+.event1{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.event2{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+.event3{
+    height: 200px;
+    width: 295px;
+    border-radius: 10px 10px 0px 0px;
+    
+    
+}
+
+.event4{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+.book{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.book1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.book2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.book3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 130px;
+}
+
+.book4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.book5{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 130px;
+}
+
+.book6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.book7{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.button1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+.button2{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -590px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+.button3{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -270px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+.button4{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -900px;
+    height: 60px;
+    width: 170px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+.boxes{
+    margin-top: 220px;
+    position: relative;
+    margin-left: -950px;
+    border-radius: 10px;
+    height: 300px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.boxes1{
+    position: absolute;
+    height: 80px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.boxes2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 120px;
+    font-size: 23px;
+}
+
+.boxes3{
+    position: absolute;
+    height: 20px;
+    width: 130px;
+    padding: 80px;
+    margin-left: 40px;
+}
+
+.boxes4{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 150px;
+    margin-left: 60px;
+    font-size: large;
+}
+
+.boxes5{
+    position: absolute;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 200px;
+    margin-left: 60px;
+
+}
+
+.oppo{
+    position: relative;
+}
+
+.oppo1{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 950px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.oppo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin-left: 50px;
+    font-weight: bold;
+
+}
+
+
+.oppo3{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 450px;
+    width: 29%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.oppo4{
+    
+    position: absolute;
+    margin-left: 475px;
+    margin-top: 20px;
+    height: 450px;
+    width: 29%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.oppo5{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 20px;
+    height: 450px;
+    width: 29%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.vivo{
+    position: absolute;
+    height: 230px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;  
+}
+
+.vivo1{
+    position: absolute;
+    height: 230px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;  
+}
+
+.vivo2{
+    position: absolute;
+    height: 230px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;  
+}
+
+.japan1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 300px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.japan2{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.japan3{
+    position: absolute;
+    color: red;
+    margin-top: 390px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.japan4{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 300px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+
+.japan5{
+    position: absolute;
+    color: red;
+    margin-top: 350px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.japan6{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 300px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+
+.japan7{
+    position: absolute;
+    color: red;
+    margin-top: 350px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.smart{
+    position: relative;
+}
+
+.smart1{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 50px;
+    height: 600px;
+    width: 1230px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+
+.smart2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 700px;
+    font-size: 50px;
+    margin-left: 400px;
+    font-weight: bold;
+    color: black;
+}
+
+
+.smart3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 800px;
+    margin-left: 470px;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+
+
+.smart4{
+    position: absolute;
+     height: 20px;
+     width: 150px;
+     font-weight: bold;
+     color: white;
+     padding: 1.5%;
+     border-radius: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     background-color: red;
+     margin-top: 850px;
+     margin-left: 600px;
+
+}
+
+
+
+
+.male{
+    position: relative;
+    height: 250px;
+    width: 1230px;
+    background-color: rgb(174, 216, 242);
+    margin-top: 1200px;
+    margin-left: 50px;
+    border-radius: 10px;
+    
+}
+
+.boder{
+    position: absolute;
+    height: 3px;
+    width: 98.80%;
+    background-color: red;
+}
+
+
+.male1{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+.male2{
+    position: absolute;
+    margin-top: 90px;
+    font-size: 20px;
+    margin-left: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.male3{
+    position: absolute;
+    height: 40px;
+    margin-left: 460px;
+    margin-top: 140px;
+    width: 270px;
+}
+
+.male4{
+    height: 45px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 140px;
+    margin-left: 738px;
+    border: none;
+}
+
+
+
+
+.about1{
+    position: relative;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+    margin-left: 100px;
+    margin-top: 70px;
+
+}
+
+.about2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: large;
+    color: gray;
+}
+
+
+.about3{
+    position: relative;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+    margin-left: 460px;
+    margin-top: -180px;
+
+}
+
+.about4{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 460px;
+    color: gray;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.about5{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 460px;
+    color: gray;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.about6{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 460px;
+    color: gray;
+    margin-top: 90px;
+    font-size: 20px;
+}
+
+.about7{
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+    margin-left: 700px;
+    margin-top: -60px;
+
+}
+
+.about8{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 700px;
+    color: gray;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.about9{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 700px;
+    color: gray;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.about10{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 700px;
+    color: gray;
+    margin-top: 90px;
+    font-size: 20px;
+}
+
+.about11{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 700px;
+    color: gray;
+    margin-top: 130px;
+    font-size: 20px;
+}
+
+.about12{
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+    margin-left: 970px;
+    margin-top: -60px;
+
+}
+
+.about13{
+    height: 30px;
+    margin-left: 980px;
+    margin-top: -10px;
+}
+
+
+.about14{
+    position: absolute;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+    margin-top: 40px;
+    margin-left: -130px;
+    text-decoration: none;
+
+}
+
+.about15{
+    position: absolute;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: -130px;
+}
+
+.about16{
+    position: absolute;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: -60px;
+}
+
+
+.about17{
+    position: absolute;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+
+.about18{
+    position: absolute;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+
+
+.last{
+    position: absolute;
+    width: 1230px;
+    height: 2px;
+    margin-top: 200px;
+    margin-left: 50px;
+    background-color: black;
+}
